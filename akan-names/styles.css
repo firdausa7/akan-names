@@ -1,0 +1,9 @@
+body{
+    color: white;
+}
+.container{
+    background-image: url("pic3.jpeg");
+}
+.overlay{
+    background-color: rgba(black, black, black, 1);
+}
