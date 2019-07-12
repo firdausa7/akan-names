@@ -1,7 +1,7 @@
 body{
     color: white;
 }
-.container{
+.container-fluid{
     background-image: url("pic3.jpeg");
 }
 .overlay{

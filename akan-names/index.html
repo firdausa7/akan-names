@@ -12,40 +12,44 @@
 </head>
 
 <body>
-    <div class="container">
-        <div class="jumbotron">
-            <h1>AKAN NAMES</h1>
-        </div>
-        <div class="form">
-            <div class="form-group">
-                <label for="date">century</label>
-                <input type="text" class="form-control" placeholder="input" id="century">
-            </div>
-            <div class="form-group">
-                <label for="disabledSelect">year</label>
-                <input type="text" class="form-control" placeholder="input" id="year">
-            </div>
-            <div class="form-group">
-                <label for="date">month</label>
-                <input type="text" class="form-control" placeholder="input" id="month">
-            </div>
-            <div class="form-group">
-                <label for="disabledSelect">day of month</label>
-                <input type="text" class="form-control" placeholder="input" id="day of month">
-            </div>
-            <div class="radio-buttons">
-            <form >
-                    <p>Please select your gender:</p>
-                    <input type="radio" name="gender" value="male" id="male"> Male<br>
-                    <input type="radio" name="gender" value="female" id="female"> Female<br>
-            </form>
-                
-            </div> 
-            <button type="submit" class="btn btn-primary" onclick="checkDayOfWeek()">Submit</button>
-        </div>
+    <div class="overlay">
 
-        <h1 id="result"></h1>
+        <div class="container-fluid">
+            <div class="jumbotron">
+                <h1>AKAN NAMES</h1>
+            </div>
 
+            <div class="form">
+                <div class="form-group">
+                    <label for="date">century</label>
+                    <input type="text" class="form-control" placeholder="input" id="century">
+                </div>
+                <div class="form-group">
+                    <label for="disabledSelect">year</label>
+                    <input type="text" class="form-control" placeholder="input" id="year">
+                </div>
+                <div class="form-group">
+                    <label for="date">month</label>
+                    <input type="text" class="form-control" placeholder="input" id="month">
+                </div>
+                <div class="form-group">
+                    <label for="disabledSelect">day of month</label>
+                    <input type="text" class="form-control" placeholder="input" id="day of month">
+                </div>
+                <div class="radio-buttons">
+                    <form>
+                        <p>PLEASE SELECT YOUR GENDER:</p>
+                        <input type="radio" name="gender" value="male" id="male"> Male<br>
+                        <input type="radio" name="gender" value="female" id="female"> Female<br>
+                    </form>
+
+                </div>
+                <button type="submit" class="btn btn-primary" onclick="checkDayOfWeek()">Submit</button>
+            </div>
+
+            <h1 id="result"></h1>
+
+        </div>
     </div>
 </body>
 
