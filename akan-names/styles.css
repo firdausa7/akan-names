@@ -16,6 +16,18 @@ body{
 h1{
     font-family: 'Notable', sans-serif;
     color:black;
+}
+label{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 30px;
+    color: white;
 
 }
+p{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 35px;
+
+
+}
+
 
