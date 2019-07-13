@@ -1,7 +1,7 @@
 # akan-names
 ## Author
 
-[Firdausa-SAlat](https://github.com/firdausa7)
+[Firdausa-Salat](https://github.com/firdausa7)
 
 ## Description
 This is a web application that takes user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name. 
@@ -12,7 +12,7 @@ This is a web application that takes user's birthday and calculates the day of t
 ## Installation / Setup instruction
 * Open Terminal {Ctrl+Alt+T}
 
-* git clone ```https://github.com/firdausa7/akan-names.git```
+Up* git clone ```https://github.com/firdausa7/akan-names.git```
 
 * cd akan-names
 
