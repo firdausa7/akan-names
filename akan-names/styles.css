@@ -10,12 +10,12 @@ body{
 }
 .form{
     text-align: center;
-    fon
+    
 
 }
 h1{
     font-family: 'Notable', sans-serif;
-    color:black;
+    color: black;
 }
 label{
     font-family: 'Permanent Marker', cursive;
@@ -25,9 +25,7 @@ label{
 }
 p{
     font-family: 'Permanent Marker', cursive;
-    font-size: 35px;
-
-
+    font-size: 25px;
 }
 
 
