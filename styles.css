@@ -1,0 +1,35 @@
+body{
+    color: white;
+}
+.container-fluid{
+    background-image: url("image2.jpeg");
+    background-size: cover;
+}
+.overlay{
+    background-color: rgba(black, black, black, 2);
+}
+.form{
+    text-align: center;
+    
+
+}
+h1{
+    font-family: 'Notable', sans-serif;
+    color: black;
+}
+label{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 30px;
+    color: white;
+
+}
+p{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 20px;
+    color: black;
+}
+h2{
+    font-size: 20px;
+}
+
+

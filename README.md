@@ -6,7 +6,7 @@
 ## Description
 This is a web application that takes user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name. 
 ## Screenshot
-<img src="https://github.com/firdausa7/akan-names/blob/master/akan-names/Screenshot%20from%202019-07-14%2013-23-59.png" width="800px" height="400px">
+<img src="Screenshot from 2019-07-14 13-23-59.png">
 
 ## Live Page 
 []
@@ -33,3 +33,5 @@ If you have any question or contributions, please email me at [firdausa.salat@gm
 ## License
 * *MIT License:*
 * Copyright (c) 2019 **FIRDAUSA SALAT**
+
+
