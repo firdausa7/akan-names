@@ -6,7 +6,7 @@ body{
     background-size: cover;
 }
 .overlay{
-    background-color: rgba(black, black, black, 1);
+    background-color: rgba(black, black, black, 2);
 }
 .form{
     text-align: center;
@@ -25,7 +25,7 @@ label{
 }
 p{
     font-family: 'Permanent Marker', cursive;
-    font-size: 25px;
+    font-size: 20px;
     color: black;
 }
 
