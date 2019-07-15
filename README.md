@@ -9,11 +9,11 @@ This is a web application that takes user's birthday and calculates the day of t
 <img src="Screenshot from 2019-07-14 13-23-59.png">
 
 ## Live Page 
-[]
+[https://firdausa7.github.io/akan-names/]
 ## Installation / Setup instruction
 * Open Terminal {Ctrl+Alt+T}
 
-Up* git clone ```https://github.com/firdausa7/akan-names.git```
+* git clone ```https://github.com/firdausa7/akan-names.git```
 
 * cd akan-names
 
