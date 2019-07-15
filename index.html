@@ -24,7 +24,7 @@
                     birth and gender to find out your akan name below:</p>
             </div>
 
-            <div class="form col-sm-4 offset-sm-3 text-center">
+            <div class="form col-sm-4 offset-sm-3 text-center" onsubmit="validation();">
                 <div class="form-group align-center">
                     <label for="date">century</label>
                     <input type="text" class="form-control" placeholder="input" id="century">
@@ -49,8 +49,8 @@
                     </form>
 
                 </div>
-                <a href="#result"><button type="button" name="button" class="btn btn-dark"
-                        onclick="checkDayOfWeek();">Calculate Day</button></a>
+                <a href="#result"><button type="submit" name="button" class="btn btn-dark"
+                        onclick="checkDayOfWeek();" >Calculate Day</button></a>
             </div>
 
             <h1 id="result">0</h1>

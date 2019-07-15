@@ -6,6 +6,27 @@ function input(){
   month = parseInt(document.getElementById("month").value);
   dayOfMonth = parseInt(document.getElementById("day of month").value);  
 }
+function validation(){
+    if (document.getElementById("century").value == ""){
+        alert("please enter a century");
+        return false;
+    }
+    else if(document.getElementById("year").value ==""){
+        alert("please enter a year");
+        return false;
+    }
+    else if(document.getElementById("month").value==""){
+        alert("please enter a month");
+        return false;
+    }
+    else if(document.getElementById("day of month").value==""){
+        alert("please enter a valid date");
+        return false;
+    }
+    else {
+        return true;
+    }
+}
 
 function calculate(){
     input();
@@ -19,6 +40,7 @@ function calculate(){
 function checkDayOfWeek(){
      dayNum = calculate();
       checkGender();
+      validation();
 }
 
 function checkGender(){
