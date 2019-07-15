@@ -14,8 +14,10 @@ body{
 
 }
 h1{
-    font-family: 'Notable', sans-serif;
+    font-family: 'Staatliches', cursive;
     color: black;
+    text-align: center;
+    font-size: 55px;
 }
 label{
     font-family: 'Permanent Marker', cursive;
